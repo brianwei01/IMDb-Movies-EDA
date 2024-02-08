@@ -1,5 +1,9 @@
 # **IMDb's Top 1000 Movies EDA**
 
+### **Links to dashboards:**
+- [PowerBI](https://drive.google.com/file/d/1syroGq6LTWBoNKg6IzsU71Vxejp4n8et/view?usp=drive_link)
+- [Tableau](https://public.tableau.com/app/profile/brianwei/viz/IMDbMoviesDashboard_17072657280140/Overview)
+
 ## **Introduction**
 The world of cinema has always captivated audiences with its diverse range of stories, characters, and experiences. From timeless classics to modern masterpieces, movies have the power to evoke emotions, spark conversations, and leave a lasting impact on viewers. This data analysis project embarks on a journey through IMDb's top-rated movies in an effort to delve deeper into the realm of cinema and explore the factors that contribute to a movie's success and acclaim. 
 
